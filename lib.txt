@@ -1,1 +1,2 @@
 first contribution to lib
+wrote it being in github
